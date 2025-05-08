@@ -211,7 +211,7 @@
 				</ProjectCard>
 				<ProjectCard
 					heading="Old Portfolio Site"
-					imgSrc="/images/portfolio-site.png"
+					imgSrc="/images/old-portfolio-site.png"
 					skills={['Wix']}
 				>
 					<p>
