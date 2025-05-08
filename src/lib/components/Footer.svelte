@@ -8,7 +8,7 @@
 		>
 		and inspired by 
 		<a
-			href="https://brittanychiang.com"
+			href="https://brittanychiang.com" target="_blank"
 			class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
 			>Brittany Chiang</a
 		>
