@@ -14,20 +14,21 @@
 			class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24"
 		>
 			<Hero />
-			<nav class="nav hidden lg:block">
+			<nav class="nav hidden lg:block lg:mt-10">
 				<ul class="w-max">
 					<Navlink title="About" href="#about" />
 					<Navlink title="Experience" href="#experience" />
 					<Navlink title="Projects and Experiments" href="#projects" />
 				</ul>
 			</nav>
-			<ul class="mt-16 mb-48 ml-1 flex items-center">
+			<ul class="mt-8 ml-1 flex items-center mb-8 md:mb-12 lg:mt-auto lg:mb-0">
 				<GithubIcon />
 				<LinkedInIcon />
 			</ul>
+			
 		</header>
 
-		<main id="content" class="pt-24 lg:w-[52%] lg:py-24">
+		<main id="content" class="lg:w-[52%] lg:py-24">
 			<!-- ABOUT -->
 			<section
 				id="about"
@@ -52,8 +53,8 @@
 					</p>
 
 					<p class="mb-4">
-						My expertise spans software engineering, cloud computing, database administration, data
-						engineering and analytics, and system administration, utilizing cutting-edge
+						My expertise spans <strong>software engineering, cloud computing, database administration, data
+						engineering and analytics, and system administration</strong>, utilizing cutting-edge
 						technologies such as Python, NextJS, TypeScript, and Golang. Whether leading large teams
 						or crafting solutions that elevate performance, I focus on fostering collaboration and
 						continuous improvement. I take pride in mentoring talent, ensuring teams are equipped to
@@ -198,10 +199,11 @@
 						Projects and Experiments
 					</h2>
 				</div>
+				<p>This area is a Work in Progress</p>
 				<ProjectCard
 					heading="This Portfolio Site"
 					imgSrc="/images/portfolio-site.png"
-					skills={['Svelte 5', 'Tailwind CSS', 'Railway', 'Cloudflare']}
+					skills={['Svelte 5', 'Tailwind CSS', 'Railway']}
 				>
 					<p>
 						I typically work with React and TypeScript, but I wanted to ramp up on Svelte. So what
@@ -220,7 +222,9 @@
 					</p>
 				</ProjectCard>
 			</section>
+			
 		</main>
+		
 	</div>
 	<Footer />
 </div>
