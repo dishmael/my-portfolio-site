@@ -54,7 +54,7 @@
 					<p class="mb-4">
 						My expertise spans <strong
 							>software engineering, cloud computing, database administration, data engineering and
-							analytics, and system administration</strong
+							analytics, system administration, enterprise architecture, and service delivery</strong
 						>, utilizing cutting-edge technologies such as Python, NextJS, TypeScript, and Golang.
 						Whether leading large teams or crafting solutions that elevate performance, I focus on
 						fostering collaboration and continuous improvement. I take pride in mentoring talent,
