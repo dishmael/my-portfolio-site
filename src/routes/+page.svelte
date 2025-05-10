@@ -215,7 +215,7 @@
 				<ProjectCard
 					heading="Screen Capture API"
 					imgSrc="/images/nestjs-screen-capture.png"
-					skills={['NestJS', 'Puppeteer']}
+					skills={['NestJS', 'Puppeteer', 'Swagger']}
 				>
 					<p>
 						This was a feature for a larger MVP that is still being developed. The API is used to
