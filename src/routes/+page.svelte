@@ -212,6 +212,17 @@
 					</p>
 				</ProjectCard>
 				<ProjectCard
+					heading="Screen Capture API"
+					imgSrc="/images/nestjs-screen-capture.png"
+					skills={['NestJS', 'Puppeteer']}
+				>
+					<p>
+						I typically work with React and TypeScript, but I wanted to ramp up on Svelte. So what
+						better way to learn than to create a new portfolio site. This is a WIP and I will likely
+						add more features over time.
+					</p>
+				</ProjectCard>
+				<ProjectCard
 					heading="Old Portfolio Site"
 					imgSrc="/images/old-portfolio-site.png"
 					skills={['Wix']}
