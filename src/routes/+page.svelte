@@ -55,11 +55,11 @@
 						My expertise spans <strong
 							>software engineering, cloud computing, database administration, data engineering and
 							analytics, system administration, enterprise architecture, and service delivery</strong
-						>, utilizing cutting-edge technologies such as Python, NextJS, TypeScript, and Golang.
-						Whether leading large teams or crafting solutions that elevate performance, I focus on
-						fostering collaboration and continuous improvement. I take pride in mentoring talent,
-						ensuring teams are equipped to meet evolving industry demands and deliver impactful
-						results.
+						>, utilizing technologies programming languages such as Docker, Python, React,
+						TypeScript, and Golang. Whether leading teams or crafting solutions that elevate
+						performance, I focus on fostering collaboration and continuous improvement. I take pride
+						in mentoring talent, ensuring teams are equipped to meet evolving industry demands and
+						deliver impactful results.
 					</p>
 
 					<p class="mb-4">
