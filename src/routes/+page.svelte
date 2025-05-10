@@ -218,8 +218,9 @@
 					skills={['NestJS', 'Puppeteer', 'Swagger']}
 				>
 					<p>
-						I was a contributor to Snap Telemetry (Snap), an open telemetry framework designed to
-						simplify the collection, processing and publishing of system data through a single API.
+						This is part of a feature for a larger MVP that is still being developed. The API is
+						used to fetch a live screen capture of a remote URL and deliver the image as a base64
+						string to be used by the calling client.
 					</p>
 				</ProjectCard>
 				<ProjectCard
@@ -228,9 +229,8 @@
 					skills={['Golang', 'AWS SQS', 'SignalFx', 'Syslog']}
 				>
 					<p>
-						This was a feature for a larger MVP that is still being developed. The API is used to
-						fetch a live screen capture of a remote URL and deliver the image as a base64 string to
-						be used by the calling client.
+						I was a contributor to Snap Telemetry (Snap), an open telemetry framework designed to
+						simplify the collection, processing and publishing of system data through a single API.
 					</p>
 				</ProjectCard>
 				<ProjectCard
