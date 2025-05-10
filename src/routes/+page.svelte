@@ -14,18 +14,17 @@
 			class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24"
 		>
 			<Hero />
-			<nav class="nav hidden lg:block lg:mt-10">
+			<nav class="nav hidden lg:mt-10 lg:block">
 				<ul class="w-max">
 					<Navlink title="About" href="#about" />
 					<Navlink title="Experience" href="#experience" />
 					<Navlink title="Projects and Experiments" href="#projects" />
 				</ul>
 			</nav>
-			<ul class="mt-8 ml-1 flex items-center mb-8 md:mb-12 lg:mt-auto lg:mb-0">
+			<ul class="mt-8 mb-8 ml-1 flex items-center md:mb-12 lg:mt-auto lg:mb-0">
 				<GithubIcon />
 				<LinkedInIcon />
 			</ul>
-			
 		</header>
 
 		<main id="content" class="lg:w-[52%] lg:py-24">
@@ -53,12 +52,14 @@
 					</p>
 
 					<p class="mb-4">
-						My expertise spans <strong>software engineering, cloud computing, database administration, data
-						engineering and analytics, and system administration</strong>, utilizing cutting-edge
-						technologies such as Python, NextJS, TypeScript, and Golang. Whether leading large teams
-						or crafting solutions that elevate performance, I focus on fostering collaboration and
-						continuous improvement. I take pride in mentoring talent, ensuring teams are equipped to
-						meet evolving industry demands and deliver impactful results.
+						My expertise spans <strong
+							>software engineering, cloud computing, database administration, data engineering and
+							analytics, and system administration</strong
+						>, utilizing cutting-edge technologies such as Python, NextJS, TypeScript, and Golang.
+						Whether leading large teams or crafting solutions that elevate performance, I focus on
+						fostering collaboration and continuous improvement. I take pride in mentoring talent,
+						ensuring teams are equipped to meet evolving industry demands and deliver impactful
+						results.
 					</p>
 
 					<p class="mb-4">
@@ -217,9 +218,9 @@
 					skills={['NestJS', 'Puppeteer']}
 				>
 					<p>
-						I typically work with React and TypeScript, but I wanted to ramp up on Svelte. So what
-						better way to learn than to create a new portfolio site. This is a WIP and I will likely
-						add more features over time.
+						This was a feature for a larger MVP that is still being developed. The API is used to
+						fetch a live screen capture of a remote URL and deliver the image as a base64 string to
+						be used by the calling client.
 					</p>
 				</ProjectCard>
 				<ProjectCard
@@ -233,9 +234,7 @@
 					</p>
 				</ProjectCard>
 			</section>
-			
 		</main>
-		
 	</div>
 	<Footer />
 </div>
