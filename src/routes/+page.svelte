@@ -207,9 +207,9 @@
 					skills={['Svelte 5', 'Tailwind CSS', 'Railway']}
 				>
 					<p>
-						I typically work with React and TypeScript, but I wanted to ramp up on Svelte. So what
-						better way to learn than to create a new portfolio site. This is a WIP and I will likely
-						add more features over time.
+						I typically work with React and TypeScript, but I wanted to ramp up on Svelte to see
+						what all the fuss was about. So what better way to learn than to create a new portfolio
+						site. This is a WIP and I will likely add more features over time.
 					</p>
 				</ProjectCard>
 				<ProjectCard
