@@ -88,7 +88,7 @@
 						<ExperienceCard heading="Vice President, Qmulos" from="2023" to="2024" skills={[]}>
 							<p class="mt-2 text-sm leading-normal">
 								Provided leadership for the delivery team, with a strong emphasis on engineering
-								excellence and operational efficiency. Led a team of skilled directors, managers,
+								excellence and operational efficiency. Led a team of 40+ skilled directors, managers,
 								and engineers, overseeing technical execution, project delivery, and continuous
 								improvement of engineering best practices. Spearheaded initiatives to enhance
 								engineering team health, optimize workflows, and align technical efforts with
