@@ -204,7 +204,7 @@
 				<ProjectCard
 					heading="This Portfolio Site"
 					imgSrc="/images/portfolio-site.png"
-					skills={['Svelte 5', 'Tailwind CSS', 'Railway']}
+					skills={['Svelte 5', 'Tailwind CSS', 'Railway', 'Cloudflare']}
 				>
 					<p>
 						I typically work with React and TypeScript, but I wanted to ramp up on Svelte to see
