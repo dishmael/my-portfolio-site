@@ -1,6 +1,7 @@
 {
 	"name": "david-ishmael-portfolio-site",
 	"description": "David's personal portfolio web site",
+	"homepage": "https://davidishmael.me",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
