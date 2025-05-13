@@ -85,7 +85,7 @@
 				</div>
 				<div>
 					<ol class="group/list">
-						<ExperienceCard heading="Vice President, Qmulos" from="2023" to="2024" skills={[]}>
+						<ExperienceCard heading="Vice President, Qmulos" from="2023" to="2025" skills={[]}>
 							<p class="mt-2 text-sm leading-normal">
 								Provided leadership for the delivery team, with a strong emphasis on engineering
 								excellence and operational efficiency. Led a team of 40+ skilled directors, managers,
