@@ -1,5 +1,6 @@
 {
-	"name": "my-portfolio-site",
+	"name": "david-ishmael-portfolio-site",
+	"description": "David's personal portfolio web site",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
