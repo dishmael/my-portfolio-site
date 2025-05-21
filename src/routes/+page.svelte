@@ -203,8 +203,8 @@
 				<p>This area is a Work in Progress</p>
 				<ProjectCard
 					heading="This Portfolio Site"
-					imgSrc="/images/portfolio-site.png"
-					skills={['Svelte 5', 'Tailwind CSS', 'Railway', 'Cloudflare']}
+					imgSrc="https://dishmael-s3-web-images.s3.us-east-1.amazonaws.com/portfolio-site.png"
+					skills={['Svelte 5', 'Tailwind CSS', 'Railway', 'Cloudflare', 'S3']}
 				>
 					<p>
 						I typically work with React and TypeScript, but I wanted to ramp up on Svelte to see
@@ -214,7 +214,7 @@
 				</ProjectCard>
 				<ProjectCard
 					heading="Screen Capture API"
-					imgSrc="/images/nestjs-screen-capture.png"
+					imgSrc="https://dishmael-s3-web-images.s3.us-east-1.amazonaws.com/nestjs-screen-capture.png"
 					skills={['NestJS', 'Puppeteer', 'Swagger']}
 				>
 					<p>
@@ -225,7 +225,7 @@
 				</ProjectCard>
 				<ProjectCard
 					heading="Snap-Telemetry"
-					imgSrc="/images/snap-telemetry.png"
+					imgSrc="https://dishmael-s3-web-images.s3.us-east-1.amazonaws.com/snap-telemetry.png"
 					skills={['Golang', 'AWS SQS', 'SignalFx', 'Syslog']}
 				>
 					<p>
@@ -235,7 +235,7 @@
 				</ProjectCard>
 				<ProjectCard
 					heading="Old Portfolio Site"
-					imgSrc="/images/old-portfolio-site.png"
+					imgSrc="https://dishmael-s3-web-images.s3.us-east-1.amazonaws.com/old-portfolio-site.png"
 					skills={['Wix']}
 				>
 					<p>
